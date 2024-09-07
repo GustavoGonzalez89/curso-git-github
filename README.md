@@ -1,4 +1,4 @@
 # curso-git-github
 primer repo creado en github
-##Description
+## Description
 Este es un repo creado para aprender github
